@@ -9,4 +9,4 @@ Each assignment is organized into its respective folder. The code is written wit
 - Control Flow
 - Function Calls
 - Recursion
-- Static and Dynamic Data Structures
+- Data Structures
