@@ -1,6 +1,6 @@
 # EECS22 - Advanced C Programming Assignments
 
-This repository hosts assignments for the EECS22 - Advanced C Programming course.
+This repository hosts assignments for the EECS22 Advanced C Programming course.
 
 ## Overview
 
